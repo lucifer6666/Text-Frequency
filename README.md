@@ -1,2 +1,2 @@
 # Text-Frequency
-Find thw most repeated word in a sentence
+Find the most repeated word in a sentence
